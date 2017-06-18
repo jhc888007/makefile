@@ -1,6 +1,6 @@
 # 变量声明方式，会在需要展开时进行展开
 # 貌似变量前面加空格是没关系的
-OBJECTS=   main.o test1.o test3.o
+OBJECTS=   main.o test1.o test3.o   
 # 无论执行make或是make clean，打印出的TESTVAL值都是2
 # 所以变量重新赋值会可能产生一些意想不到的问题
 TESTVAL=1
