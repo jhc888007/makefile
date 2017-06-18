@@ -1,0 +1,2 @@
+typedef struct{}Test4;
+
